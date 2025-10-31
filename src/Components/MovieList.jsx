@@ -35,7 +35,7 @@ export default function MovieList({movies, sort}){
             </div>
            ))}
 
-           {/* 👇 add spacing at the bottom */}
+      
             <div style={{ marginBottom: "20px" }}></div>
         </div>
     );
